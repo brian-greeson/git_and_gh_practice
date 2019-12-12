@@ -1,0 +1,6 @@
+## Continents visited
+* North America
+* South America
+* Asia
+* Europe
+* Africa
